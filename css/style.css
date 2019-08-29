@@ -1,0 +1,114 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html, body {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	background: #eeeeee;
+}
+h1, h2, h3, h4, h5, h6, p, ul, th, td {
+	font-family: Century Gothic, Arial, Helvetica, sans-serif;
+}
+#footer {
+	text-align: center;
+	padding: 10px;
+}
+#experience {
+	border: 20px;
+	text-align: justify;
+}
+#education {
+	background: #fcfcff;
+}
+#bottom {
+	background: #fcfcff;
+	padding: 8px 4px 6px 4px;
+	font-family: Century Gothic, Arial, Helvetica, sans-serif;
+}
+#wrapper {
+	background-color: #f2f2fc;
+}
+#top {
+	background: #66e0ff;
+	text-align: center;
+	border: 20px;
+	padding: 60px;
+}
+#ps {
+	text-align: justify;
+	padding: 10px 80px 20px 80px;
+}
+#links {
+	padding: 15px 10px 150px 2px;
+	background: #fcfcff;
+}
+#expert {
+	width: 370px;
+	text-align: left;
+	float: left;
+}
+#not_expert {
+	width: 310px;
+	text-align: left;
+	float: right;
+}
+.company {
+	padding: 0px 0px 10px 0px;
+	color: #933936;
+	font-style: italic;
+	font-size: 1.025em;
+}
+.achievement {
+	padding: 10px 0px 0px 0px;
+	color: #338fff;
+	font-weight: bold;
+	font-size: 1.1em;
+}
+.pix {
+	text-align: left;
+	padding: 8px;
+}
+p {
+	padding: 4px 0px 0px
+}
+b {
+	color: #933936;
+	font-size: 1.1em;
+}
+h3 {
+	color: #0c0c2d;
+	padding-bottom: 5px;
+	padding-top: 20px;
+	text-transform: uppercase;
+}
+b {
+	color: #933936;
+	font-size: 1.1em;
+}
+ul {
+	list-style-image: url(https://res.cloudinary.com/adetohun/image/upload/v1567045675/button2.png);
+	list-style-position: inside;
+}
+th {
+	color: #933936;
+	font-size: 1.25em;
+}
+table {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
+td, th {
+	border: 1px;
+	text-align: left;
+	padding: 8px;
+}
+img {
+	display: block;
+	border: solid;
+	border-color: white;
+	float: right;
+	text-align: left;
+}
