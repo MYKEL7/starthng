@@ -112,3 +112,60 @@ img {
 	float: right;
 	text-align: left;
 }
+#sizy {
+	width: 960px;
+	float: left;
+  }
+  #yzis {
+	width: 800px;
+   
+  }
+  section {
+	  flex-basis: 57%;
+	  margin-right: 10%;
+  }
+  aside {
+	  flex-basis: 33%;
+	padding-left: 0px;
+	width: 200px;
+  }
+  fieldset {
+	  border: 1px solid #2f93b;
+	  border-radius: 10px;
+	  margin-bottom: 2rem;
+  }
+  legend {
+	  font-weight: bold;
+	  font-size: 1.3rem;
+	  margin: 1.5rem 0 1rem 0;
+	  display: block;
+	  font-family:Century Gothic, Arial, Helvetica, sans-serif;
+	  color: #0c0c2d;
+  }
+  label {
+	  display: block;
+	  padding-bottom: 0.3rem;
+  }
+  textarea {
+	  height: 10rem;
+	  padding: 1rem;
+  }
+  button {
+	  font-size: 1rem;
+	  margin: 1rem 0;
+	  background-color: #2f93b7;
+	  color: white;
+	  border: none;
+	  padding: 0.5rem 1rem;
+	  border-radius: 5px;
+  }
+  button:hover {
+  background-color: white;
+  color: #2f93b7;
+  }
+  legend {
+	  font-weight: bold;
+	  font-size: 1.3rem;
+	  margin: 1.5rem 0 1rem 0;
+	  display: block;
+  }
