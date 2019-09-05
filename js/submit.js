@@ -21,7 +21,8 @@ function validation (){
     error_message.innerHTML = text;
     return false;
 }
-else{ ("Form Submitted Succesfully!")
+else{ text = "Form Submitted Succesfully!";
+error_message.innerHTML = text;
 return true;
 }
 }
