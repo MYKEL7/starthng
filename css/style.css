@@ -31,16 +31,6 @@ h1, h2, h3, h4, h5, h6, p, ul, th, td {
 	background-color: #f2f2fc;
 }
 #top {
-<<<<<<< HEAD
-	background: #66e0ff;
-	text-align: center;
-	border: 20px;
-	padding: 60px;
-}
-#ps {
-	text-align: justify;
-	padding: 10px 80px 20px 80px;
-=======
 	background: #694E33;
 	text-align: center;
 	text-align: justify;
@@ -49,47 +39,30 @@ h1, h2, h3, h4, h5, h6, p, ul, th, td {
 #ps {
 	text-align: justify;
 	padding: 10px 5px 0px 120px;
->>>>>>> updated
 }
 #links {
 	padding: 15px 10px 150px 2px;
 	background: #fcfcff;
 }
 #expert {
-<<<<<<< HEAD
-	width: 370px;
-=======
 	width: 400px;
->>>>>>> updated
 	text-align: left;
 	float: left;
 }
 #not_expert {
-<<<<<<< HEAD
-	width: 310px;
-=======
 	width: 350px;
->>>>>>> updated
 	text-align: left;
 	float: right;
 }
 .company {
 	padding: 0px 0px 10px 0px;
-<<<<<<< HEAD
-	color: #933936;
-=======
 	color: #694E33;
->>>>>>> updated
 	font-style: italic;
 	font-size: 1.025em;
 }
 .achievement {
 	padding: 10px 0px 0px 0px;
-<<<<<<< HEAD
-	color: #338fff;
-=======
 	color: #C8464C;
->>>>>>> updated
 	font-weight: bold;
 	font-size: 1.1em;
 }
@@ -98,10 +71,7 @@ h1, h2, h3, h4, h5, h6, p, ul, th, td {
 	padding: 8px;
 }
 p {
-<<<<<<< HEAD
-=======
   font-size: 18px;
->>>>>>> updated
 	padding: 4px 0px 0px
 }
 b {
@@ -115,11 +85,7 @@ h3 {
 	text-transform: uppercase;
 }
 b {
-<<<<<<< HEAD
-	color: #933936;
-=======
 	color: #694E33;
->>>>>>> updated
 	font-size: 1.1em;
 }
 ul {
@@ -133,13 +99,8 @@ th {
 table {
 	font-family: arial, sans-serif;
 	border-collapse: collapse;
-<<<<<<< HEAD
-	width: 100%;
-}
-=======
 	width: 92%;
   }
->>>>>>> updated
 td, th {
 	border: 1px;
 	text-align: left;
@@ -152,12 +113,9 @@ img {
 	float: right;
 	text-align: left;
 }
-<<<<<<< HEAD
-=======
 li{
   font-size: 18px;
 }
->>>>>>> updated
 #sizy {
 	width: 960px;
 	float: left;
@@ -170,31 +128,16 @@ li{
 	  flex-basis: 57%;
 	  margin-right: 10%;
   }
-<<<<<<< HEAD
-  aside {
-	  flex-basis: 33%;
-	padding-left: 0px;
-	width: 200px;
-  }
-=======
->>>>>>> updated
   fieldset {
-	  border: 1px solid #2f93b;
+	  border: 1px solid #2f93b1;
 	  border-radius: 10px;
 	  margin-bottom: 2rem;
-<<<<<<< HEAD
-  }
-  legend {
-	  font-weight: bold;
-	  font-size: 1.3rem;
-=======
     padding: 0px 10px 0px 15px;
   }
   legend {
     padding: 10px 0px 0px 2px;
 	  font-weight: bold;
 	  font-size: 1.2rem;
->>>>>>> updated
 	  margin: 1.5rem 0 1rem 0;
 	  display: block;
 	  font-family:Century Gothic, Arial, Helvetica, sans-serif;
@@ -205,15 +148,6 @@ li{
 	  padding-bottom: 0.3rem;
   }
   textarea {
-<<<<<<< HEAD
-	  height: 10rem;
-	  padding: 1rem;
-  }
-  button {
-	  font-size: 1rem;
-	  margin: 1rem 0;
-	  background-color: #2f93b7;
-=======
 	  padding: 20px;
     width: 92%;
   }
@@ -224,52 +158,28 @@ li{
   button {
 	  font-size: 15px;
 	  margin: 1rem 0;
-	  background-color: #C8464C;
->>>>>>> updated
-	  color: white;
+	  
+background-color: #C8464C;
+  color: white;
 	  border: none;
 	  padding: 0.5rem 1rem;
 	  border-radius: 5px;
-<<<<<<< HEAD
   }
   button:hover {
-  background-color: white;
-  color: #2f93b7;
-  }
-  legend {
-	  font-weight: bold;
-	  font-size: 1.3rem;
-	  margin: 1.5rem 0 1rem 0;
-	  display: block;
-  }
-=======
-	  box-shadow: 0px 1px 2px 1px rgba(0, 0, 0, 0.2);
-  }
-  button:hover {
-	background-color: #694E33;
-	color: #0c0c2d;
+background-color: #FEEBD0;
+	  color: #0c0c2d;
   }
  a:link, a:visited {
 	background-color: #FEEBD0;
 	color: #0c0c2d;
   font-size: 16px;
 	text-align: right;
-	text decoration: none;
+	text-decoration: none;
     padding: 0.1rem .5rem;
 	  border-radius: 3px;
    margin: 1rem 0;
-   box-shadow: 0px 1px 2px 1px rgba(0, 0, 0, 0.2);
 }
   a:hover, a:active {
 	 background-color: #C8464C;
   color: white;
 }
-#error_message{
-	margin-bottom: 20px;
-	padding: 10px;
-	background: white;
-}
-#contact{
-	
-}
->>>>>>> updated
